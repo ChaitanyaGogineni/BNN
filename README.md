@@ -1,5 +1,5 @@
 Packages needed to install:
-Pytorch
-Pyro
-numpy
+Pytorch,
+Pyro,
+numpy,
 matplotlib
